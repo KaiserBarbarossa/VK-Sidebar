@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "VK Sidebar",
+  "description": "Displays VK in a sidebar.",
+  "version": "1.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "54.0a1"
+    }
+  },
+
+
+  "sidebar_action": {
+    "default_icon": "icons/vk.png",
+    "default_title" : "VK",
+    "default_panel": "sidebar/panel.html"
+  }
+  
+}
